@@ -1,0 +1,6 @@
+features topology algorithm Gaussians test/train error Colon Comma EM Hyphen Period QM Quotes
+mfcceda39w512s256 leftright baumwelch 1 test 32.6 38.5 72.0 0.0 24.0 26.9 0.0 68.0
+mfcceda39w512s256 leftright baumwelch 2 test 14.0 0.0 56.0 0.0 24.0 11.5 0.0 8.0
+mfcceda39w512s256 leftright baumwelch 3 test 12.4 0.0 32.0 0.0 12.0 30.8 0.0 12.0
+mfcceda39w512s256 leftright baumwelch 4 test 9.6 0.0 24.0 0.0 0.0 26.9 0.0 16.0
+mfcceda39w512s256 leftright baumwelch 5 test 6.2 0.0 28.0 0.0 0.0 7.7 0.0 8.0
